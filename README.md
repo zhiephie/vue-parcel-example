@@ -1,13 +1,13 @@
-# React Parcel Example
+# Vuejs Parcel Example
 
-A minimum viable React app with [Parcel Bundler](https://parceljs.org).
+A minimum viable Vue app with [Parcel Bundler](https://parceljs.org).
 
 ## Getting started
 
 Clone and install deps
 ```
-git clone git@github.com:jaredpalmer/react-parcel-example.git
-cd react-parcel-example
+git clone git@github.com:zhiephie/vue-parcel-example.git
+cd vue-parcel-example
 yarn 
 yarn start
 ```
